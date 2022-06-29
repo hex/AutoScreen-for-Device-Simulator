@@ -28,4 +28,4 @@ This is done by transforming the RectTransform, but the changes are not saved in
 
 or add a following line to `dependencies` field of your Packages/manifest.json.
 
-* `"com.jagapippi.auto-screen": "https://github.com/su10/AutoScreen-for-Device-Simulator.git?path=Packages/com.jagapippi.auto-screen"`
+* `"com.jagapippi.auto-screen": "https://github.com/hex/AutoScreen-for-Device-Simulator.git?path=Packages/com.jagapippi.auto-screen"`
